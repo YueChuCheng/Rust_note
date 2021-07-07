@@ -65,11 +65,11 @@ fn main() {
 
     //Fixing the Error Handling
     else if listing == 8{
-        println!("Changing parse_config into Config::new");
+        /*println!("Changing parse_config into Config::new");
         let args: Vec<String> = env::args().collect();
         let config = Config_7::new(&args);
         println!("{}",config.query);
-        println!("{}",config.filename);
+        println!("{}",config.filename);*/
     }
 
 
